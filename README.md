@@ -18,3 +18,15 @@ npm start 를 싱행하면 Expo CLI server 가 각자의 로컬 컴퓨터 안에
 서버가 시작되면 각자의 인터넷 브라우저 에서 해당 서버페이지가 열립니다.
 우리는 먼저 IOS 앱을 시뮬레이터로 실행해 보겠습니다
 
+Expo CLI 서버 페이지에서 - 브라우저에서 주소 http://localhost:19002/ 으로 열려있음
+왼쪽 탭중 Run on iOS simulator 를 클릭합니다
+처음 실행하면 아마도 xcode 시뮬레이터를 찾을수 없다는 에러가 발생합니다
+터미널로 돌아가서 다음 명령어를 입력해줍니다
+``` sh
+$ sudo xcode-select -s /Applications/Xcode.app
+``` 
+
+다시 Run on iOS simulator 를 클릭하여 iOS simulator 를 실행합니다
+시뮬레이터가 실행 완료되면 다시한번 Run on iOS simulator 를 클릭하면 시뮬레이터에서 우리의 첫번째 앱을 설치하고 실행됩니다
+
+이제 테스트를 위한 프로젝트 설정이 완료되었습니다
