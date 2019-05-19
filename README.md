@@ -1,6 +1,6 @@
 # React-Native-Study
 ## 스터디 목표
-이번 스터디에서 우리는 React-Native 개발 환경을 세팅하고, React Native Elements 를 사용하여 UI 요소들의 사용법을 익히게 됩니다
+이번 스터디에서 우리는 React-Native 개발 환경을 세팅하고, [React Native Elements](https://react-native-training.github.io/react-native-elements/) 를 사용하여 UI 요소들의 사용법을 익히게 됩니다
 
 ## 프로젝트 설정
 먼저 npm 을 사용하여 expo-cli 를 설지한 뒤,
