@@ -28,5 +28,6 @@ $ sudo xcode-select -s /Applications/Xcode.app
 
 다시 Run on iOS simulator 를 클릭하여 iOS simulator 를 실행합니다
 시뮬레이터가 실행 완료되면 다시한번 Run on iOS simulator 를 클릭하면 시뮬레이터에서 우리의 첫번째 앱을 설치하고 실행됩니다
-https://github.com/yjsplay2002/React-Native-Study/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202019-05-19%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.00.45.png
+
+<img src="https://github.com/yjsplay2002/React-Native-Study/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202019-05-19%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.00.45.png">
 이제 테스트를 위한 프로젝트 설정이 완료되었습니다
