@@ -11,7 +11,6 @@ expo 를 통해 첫번째 앱을 생성합니다
 $ npm install -g expo-cli
 $ expo init my-app
 $ cd my-app/
-$ sudo yarn add react-native-elements
 $ npm start
 ```
 
